@@ -7,6 +7,7 @@ This project explores how structural brain morphometry features relate to age. I
 - `data/largedataset_clean.txt`: tab-separated source dataset.
 - `notebooks/01_gender_stratified_regression.ipynb`: feature-wise regression plots for female and male cohorts.
 - `notebooks/02_pca_age_prediction.ipynb`: PCA and regression for age prediction.
+- `reports/brain_morphometry_age_analysis_report.docx`: detailed English report; model-result values remain pending notebook execution.
 - `reports/گزارش-تحلیل-مورفومتری-MRI.docx`: Persian project report; model-result values remain pending notebook execution.
 
 ## Setup
